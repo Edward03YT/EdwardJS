@@ -8,24 +8,6 @@
 - **🎨 Advanced Rendering** – Uses functions such as `Render.Text` and `Render.Line` to draw visual elements.
 - **🔗 Interaction with Onetap API** – Accesses entity positions and other relevant game data.
 - **⚡ Performance Optimizations** – Efficient code for smooth performance in CS:GO.
-
-## Installation 🛠️
-1. 🔗 Go to the Onetap.su platform and open the script section.
-2. 📂 Create a new script and copy the contents of the `Edward03.js` file.
-3. ▶️ Save and run the script.
-
-## Usage 🎮
-- ✅ Activate the script from the Onetap menu.
-- ⚙️ You can adjust settings according to your preferences.
-
-## Contributions 🤝
-If you have suggestions or improvements, feel free to make a pull request or open an issue on GitHub.
-
-## License 📜
-This project is licensed under the MIT License. You are free to use and modify the code as long as you retain the original notices.
-
-## Features 🔥
-
 - 🟢 **VISUAL ESP/EDIT functions**
 - 🎛 **Keybind editor**
 - 📊 **Visual indicators**
@@ -48,3 +30,19 @@ This project is licensed under the MIT License. You are free to use and modify t
 - 🎯 **Hitlogs**
 - ⚙️ **FPS optimization**
 - 🔧 **Fix zoom sensitivity**
+
+## Installation 🛠️
+1. 🔗 Go to the Onetap.su platform and open the script section.
+2. 📂 Create a new script and copy the contents of the `Edward03.js` file.
+3. ▶️ Save and run the script.
+
+## Usage 🎮
+- ✅ Activate the script from the Onetap menu.
+- ⚙️ You can adjust settings according to your preferences.
+
+## Contributions 🤝
+If you have suggestions or improvements, feel free to make a pull request or open an issue on GitHub.
+
+## License 📜
+This project is licensed under the MIT License. You are free to use and modify the code as long as you retain the original notices.
+
