@@ -1,26 +1,75 @@
-# Edward03.js - Onetap CS:GO Script
+Edward03.js - Onetap CS:GO Script 🎯
+Description 📜
+Edward03.js is a script for CS:GO designed for the Onetap.su platform. It provides advanced features for displaying entity information and customizing the interface.
 
-## Descriere
-**Edward03.js** este un script pentru CS:GO destinat platformei Onetap.su. Acesta oferă funcționalități avansate pentru afișarea informațiilor despre entități și personalizarea interfeței.
+Features 🚀
+🟢 ESP (Extra Sensory Perception) – Displays information about players and objects on the screen.
 
-## Caracteristici
-- **ESP (Extra Sensory Perception)** – Afișează informații despre jucători și obiecte pe ecran.
-- **Renderizare avansată** – Utilizează funcții precum `Render.Text` și `Render.Line` pentru desenarea elementelor vizuale.
-- **Interacțiune cu API-ul Onetap** – Accesează pozițiile entităților și alte date relevante din joc.
-- **Optimizări pentru performanță** – Cod eficient pentru rulare fluidă în CS:GO.
+🎨 Advanced Rendering – Uses functions like Render.Text and Render.Line to draw visual elements.
 
-## Instalare
-1. Navighează în platforma Onetap.su și deschide secțiunea de scripturi.
-2. Creează un script nou și copiază conținutul fișierului `Edward03.js`.
-3. Salvează și rulează scriptul.
+🔗 Interaction with Onetap API – Accesses entity positions and other relevant game data.
 
-## Utilizare
-- Activează scriptul din meniul Onetap.
-- Poți ajusta setările în funcție de preferințele tale.
+⚡ Performance Optimizations – Efficient code for smooth performance in CS:GO.
 
-## Contribuții
-Dacă ai sugestii sau îmbunătățiri, poți face un pull request sau să deschizi un issue pe GitHub.
+Installation 🛠️
+🔗 Navigate to the Onetap.su platform and open the script section.
 
-## Licență
-Acest proiect este sub licența MIT. Poți folosi și modifica liber codul, atâta timp cât păstrezi mențiunile inițiale.
+📂 Create a new script and copy the contents of the Edward03.js file.
 
+▶️ Save and run the script.
+
+Usage 🎮
+✅ Activate the script from the Onetap menu.
+
+⚙️ You can adjust settings according to your preferences.
+
+Contributions 🤝
+If you have suggestions or improvements, feel free to make a pull request or open an issue on GitHub.
+
+License 📜
+This project is licensed under the MIT License. You can freely use and modify the code as long as you retain the original notices.
+
+Features 🔥
+🟢 VISUAL ESP/EDIT functions
+
+🎛 Keybind editor
+
+📊 Visual indicators
+
+🔄 Anti-Aim MODE
+
+🎭 Fake Angles
+
+🛡 Safe Head
+
+🏃‍♂️ Freestanding
+
+🔓 Anti-Bruteforce rework
+
+🎯 Legit-AA for legit/semi-rage
+
+🕵️‍♂️ Fake Lag Options
+
+💥 Rage-Bot Improvement
+
+🎯 Min DMG Override
+
+🎯 Body prefer part
+
+⚡ Double tap improve (Tolerance 0-3)
+
+🛑 Auto-stop improve
+
+🐢 Slow peek improve
+
+🔖 Watermark
+
+📜 Logs
+
+🔮 Predict improve
+
+🎯 Hitlogs
+
+⚙️ FPS optimization
+
+🔧 Fix zoom sensitivity
